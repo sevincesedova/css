@@ -34,11 +34,6 @@ img{
     line-height: 1.7;
     text-align: justify
 }
-.text2{
-    font-family: font-family: "Raleway", sans-serif;
-    line-height: 1.7;
-    text-align: justify
-}
 
 #t1{ color: white;
     text-transform: uppercase;
@@ -68,5 +63,4 @@ h3{
     color: white;
     text-decoration: underline;
     text-shadow: rgba(255, 0, 0, 0.804) 2px 1px;
-
 }
