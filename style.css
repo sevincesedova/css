@@ -14,7 +14,7 @@
     text-align: center;
     
 }
-h3{font-family: "Roboto", sans-serif;
+.box1 h3{font-family: "Roboto", sans-serif;
 
 }
 img{
@@ -64,19 +64,7 @@ h3{
     text-shadow: white 1px 0px 2px; 
     font-weight: bold;
 }
-#ad1{
-    color: white;
-    text-decoration: underline;
-    text-shadow: rgba(255, 0, 0, 0.804) 2px 1px;
-
-}
-#ad2{
-    color: white;
-    text-decoration: underline;
-    text-shadow: rgba(255, 0, 0, 0.804) 2px 1px;
-
-}
-#ad3{
+.ad1{
     color: white;
     text-decoration: underline;
     text-shadow: rgba(255, 0, 0, 0.804) 2px 1px;
